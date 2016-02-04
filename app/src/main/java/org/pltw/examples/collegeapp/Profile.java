@@ -19,7 +19,7 @@ public class Profile implements ApplicantData{
     private String mFirstName;
     private String mLastName;
     private Date mDateOfBirth;
-
+    /* example commit */
     public String getFirstName() {
         return mFirstName;
     }
